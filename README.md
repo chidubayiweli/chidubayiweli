@@ -1,9 +1,6 @@
   
 # 💫 About Me:
-👋 Hi, I’m @chidubayiweli<br>
-I’m interested in data analyst roles<br> 
-I studied Economics at the University of Kent, England for my Bachelor's degree<br>
-I studied Management at the University of Warwick, England for my Master's degree
+👋 Hi, I’m @chidubayiweli<br>> 
 
 
 # 💻 Tech Stack:
